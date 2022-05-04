@@ -1,0 +1,494 @@
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\csfml-audio.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\csfml-window.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\IconPNG.ico
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\libsndfile-1.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\openal32.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\dummy.txt
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\readme.txt
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\chasing.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\chasing_player.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\fleeing.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\fleeing_explosive.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\following.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\following_leader.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\following_order.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\following_player.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\sleeping.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Activities\tracking.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\big_bear.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\CHAR_guard.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\dark_eyed_zombie.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\dark_zombie.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\army_helmet.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\army_pants.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\army_shirt.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\army_shoes.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\biker_hair1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\biker_hair2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\biker_hair3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\biker_pants.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\biker_shoes.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\blackop_suit.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\bloodied.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\charguard_hair.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\charguard_pants.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\dog_skin1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\dog_skin2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\dog_skin3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_eyes1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_eyes2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_eyes3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_eyes4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_eyes5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_eyes6.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_hair1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_hair2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_hair3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_hair4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_hair5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_hair6.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_hair7.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_pants1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_pants2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_pants3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_pants4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_pants5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_shirt1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_shirt2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_shirt3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_shirt4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_shoes1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_shoes2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_shoes3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_skin1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_skin2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_skin3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_skin4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\female_skin5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\gangsta_hat.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\gangsta_pants.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\gangsta_shirt.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\hospital_doctor_uniform.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\hospital_nurse_uniform.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\hospital_patient_uniform.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_eyes1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_eyes2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_eyes3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_eyes4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_eyes5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_eyes6.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_hair8.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_shirt1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_shirt2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_shirt3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_shirt4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_hair1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_hair2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_hair3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_hair4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_hair5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_hair6.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_hair7.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_pants1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_pants2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_pants3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_pants4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_pants5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_shirt5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_shoes1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_shoes2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_shoes3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_skin1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_skin2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_skin3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_skin4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\male_skin5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\police_hat.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\police_pants.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\police_shoes.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\police_uniform.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\survivor_female_bandana.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\Decoration\survivor_male_bandana.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\duckman.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\famu_fataru.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\hans_von_hanz.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\jason_myers.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\female_disciple.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\female_neophyte.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\male_disciple.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\male_neophyte.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\player_follower.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\player_follower_bond.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\player_follower_trust.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\rat_zombie.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\red_eyed_skeleton.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\red_skeleton.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\roguedjack.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\santaman.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\sewers_thing.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\skeleton.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\zombie.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\zombie_prince.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\zombie_lord.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Actors\zombie_master.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\blank_texture.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\corpse_dragged.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\blast.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\boring_item.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\cant_run.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\enemy_indirect.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\enemy_you_aggressor.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\enemy_you_self_defence.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\has_vital_item.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\is_in_group.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\is_target.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\is_targeting.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\is_targetted.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\leader.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\odor_suppressed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\rot_almost_hungry.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\rot_hungry.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\rot_starving.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\sanity_disturbed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\sanity_insane.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\scent_living.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\scent_zm.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\threat_danger.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\threat_high_danger.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\threat_safe.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\can_trade.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\healing.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\line_bad.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\line_blocked.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\line_clear.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\spoiled_food.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\food_almost_hungry.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\food_hungry.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\food_starving.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\out_of_ammo.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\out_of_batteries.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\ranged_attack.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\ranged_damage.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\ranged_miss.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\running.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\sleep_almost_sleepy.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\sleep_exhausted.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\sleep_sleepy.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\expired_food.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\trap_activated.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\trap_activated_safe_group.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\trap_activated_safe_player.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\trap_triggered.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\trap_triggered_safe_group.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\trap_triggered_safe_player.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\zgrab.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\itemequipped.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_ammo_heavy_pistol.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_ammo_heavy_rifle.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_ammo_light_pistol.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_ammo_light_rifle.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_ammo_shotgun.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_ammo_bolts.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_army_bodyarmor.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_army_pistol.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_army_ration.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_army_rifle.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_bandages.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_barbed_wire.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_baseballbat.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_bear_trap.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_bigbear_bat.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_big_flashlight.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_big_flashlight_out.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_blackops_gps.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_book.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_canned_food.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_cellphone.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_CHAR_light_bodyarmor.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_combat_knife.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_crowbar.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_empty_can.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_famu_fataru_katana.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_flashlight.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_flashlight_out.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_free_angels_jacket.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_grenade.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_grenade_primed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_hans_von_hanz_pistol.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_hells_souls_jacket.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_hunter_vest.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_improvised_club.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_improvised_spear.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_iron_golfclub.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_jason_myers_axe.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_golfclub.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_groceries.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_huge_hammer.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_hunting_crossbow.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_hunting_rifle.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_kolt_revolver.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_magazine.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_medikit.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\itemslot.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_pills_antiviral.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_pills_blue.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_pills_green.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_pills_san.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_pistol.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_police_jacket.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_police_radio.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_police_riot_armor.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_precision_rifle.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_roguedjack_keyboard.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_santaman_shotgun.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_small_hammer.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_short_shovel.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_shotgun.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_shovel.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_spikes.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_spraypaint.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_spraypaint2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_spraypaint3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_spraypaint4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_stench_killer.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_subway_badge.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_truncheon.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_wooden_plank.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Items\item_ztracker.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\announcement_board.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\barrels.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\bed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\bench.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\car1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\car2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\car3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\car4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\chair.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\char_chair.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\char_table.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\dark_door_broken.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\dark_door_closed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\dark_door_open.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\drawer.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\fence.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\fridge.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\garden_fence.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\glass_door_broken.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\glass_door_closed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\glass_door_open.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\hospital_bed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\hospital_chair.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\hospital_door_broken.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\hospital_door_closed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\hospital_door_open.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\hospital_nighttable.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\hospital_wardrobe.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\iron_bench.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\iron_door_broken.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\iron_door_closed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\iron_door_open.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\iron_fence.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\junk.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\nighttable.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\power_generator_off.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\power_generator_on.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\shop_shelf.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\gate_closed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\gate_open.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\table.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\wardrobe.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\window_broken.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\window_closed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\window_open.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\wire_fence.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\wooden_door_broken.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\tree.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\wooden_door_closed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\wooden_door_open.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\wooden_large_fortification.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\MapObjects\wooden_small_fortification.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\map_exit.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\killed.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\melee_attack.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\melee_damage.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\melee_miss.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Icons\target.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Effects\onFire.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Effects\barricaded.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_blackops_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_follower_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_player_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_player_tag.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_player_tag2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_player_tag3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_player_tag4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_police_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\mini_undead_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot1_1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot1_2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot2_1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot2_2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot3_1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot3_2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot4_1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot4_2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot5_1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\rot5_2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\bloodied_floor.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\bloodied_wall.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\char_floor_logo.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\char_office.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\char_poster1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\char_poster2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\char_poster3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\hospital.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\player_tag.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\player_tag2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\player_tag3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\player_tag4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\police_station.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\posters1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\posters2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\power_sign_big.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\roguedjack.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\sewers_building.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\sewer_hole.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\sewer_ladder.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\shop_construction.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\shop_general_store.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\shop_grocery.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\shop_gunshop.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\shop_hunting.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\shop_pharmacy.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\shop_sportswear.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\stairs_down.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\stairs_up.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\subway_building.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\tags1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\tags2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\tags3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\tags4.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\tags5.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\tags6.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\tags7.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\vomit.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\Decoration\zombie_remains.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_asphalt.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_grass.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_office.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_planks.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_sewer_water.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_sewer_water_anim1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_sewer_water_anim2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_sewer_water_anim3.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_sewer_water_cover.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_tiles.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_walkway.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\rail_ew.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\road_asphalt_ew.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\road_asphalt_ns.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\wall_brick.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\wall_char_office.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\wall_hospital.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\wall_sewer.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\wall_stone.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\track_blackops_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\track_follower_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\track_police_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\track_undead_position.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\undef.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\weather_heavy_rain1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\weather_heavy_rain2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\weather_rain1.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\weather_rain2.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Manual\RS Manual.txt
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Army.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Big Bear Theme Song.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Biker.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - CUF.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Duckman Theme Song.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Famu Fataru Theme Song.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Fight.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Gangsta.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Hans von Hanz Theme Song.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Hey there.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Hospital.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Insane.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Interlude - Loop.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Intro.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Limbo.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Post mortem.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Reincarnate.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Roguedjack Theme Song.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Santaman Theme Song.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Sewers.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Sleep - Loop.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Subway.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Surface.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Survivors.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\readme.txt
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Sfx\sfx - nightmare.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Sfx\sfx - undead eat.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Sfx\sfx - undead rise.mp3
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Actors.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Entertainment.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Armors.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Barricading.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Explosives.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Food.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Lights.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Medicine.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_MeleeWeapons.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_RangedWeapons.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Scentsprays.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Spraypaints.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Trackers.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Items_Traps.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Data\Skills.csv
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Army.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Big Bear Theme Song.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Biker.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - CUF.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Duckman Theme Song.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Famu Fataru Theme Song.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Fight.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Gangsta.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Hans von Hanz Theme Song.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Hey There.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Hospital.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Insane.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Interlude - Loop.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Intro.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Limbo.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Post mortem.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Reincarnate.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Roguedjack Theme Song.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Santaman Theme Song.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Sewers.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Sleep - Loop.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Subway.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Surface.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Music\RS - Survivors.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Sfx\sfx - nightmare.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Sfx\sfx - undead eat.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Sfx\sfx - undead rise.ogg
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Resources\Images\Tiles\floor_concrete.png
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\RogueSurvivor.exe.config
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\RogueSurvivor.exe
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\RogueSurvivor.pdb
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\sfmlnet-audio.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\sfmlnet-window.dll
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\RogueSurvivor.csproj.AssemblyReference.cache
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\djack.RogueSurvivor.Bugreport.resources
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\djack.RogueSurvivor.UI.DXGameCanvas.resources
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\djack.RogueSurvivor.RogueForm.resources
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\djack.RogueSurvivor.Properties.Resources.resources
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\RogueSurvivor.csproj.GenerateResource.cache
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\RogueSurvivor.csproj.CoreCompileInputs.cache
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\RogueSurvivor.csproj.CopyComplete
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\RogueSurvivor.exe
+C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\obj\x86\Debug\RogueSurvivor.pdb
