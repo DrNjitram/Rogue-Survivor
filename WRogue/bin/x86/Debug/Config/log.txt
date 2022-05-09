@@ -1,5 +1,5 @@
 0 init main : starting program...
-1 init main : date : 04/05/2022 17:03:19.
+1 init main : date : 04/05/2022 17:16:33.
 2 init main : game version : alpha 10.1.
 3 init main : loading setup...
 4 init main : setup : VIDEO_MANAGED_DIRECTX, SOUND_MANAGED_DIRECTX
@@ -48,83 +48,75 @@
 47 init gfx : loading images...
 48 init gfx : loading images done
 49 init main : checking for manual...
-50 init main : copying manual...
-51 init main : copying manual... done!
-52 init main : checking for manual... done!
-53 run main : loading options...
-54 run main : failed to load options (no custom options?).
-55 run main : load exception : System.IO.FileNotFoundException: Could not find file 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\options.dat'.
+50 init main : checking for manual... done!
+51 run main : loading options...
+52 run main : failed to load options (no custom options?).
+53 run main : load exception : System.IO.FileNotFoundException: Could not find file 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\options.dat'.
 File name: 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\options.dat'
    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
    at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
    at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
    at djack.RogueSurvivor.Engine.GameOptions.CreateStream(String saveFileName, Boolean save) in C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\Engine\GameOptions.cs:line 946
    at djack.RogueSurvivor.Engine.GameOptions.Load(String filepath) in C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\Engine\GameOptions.cs:line 921.
-56 run main : returning default values.
-57 run main : loading options... done!
-58 run main : loading hints...
-59 run main : failed to load hints (first run?).
-60 run main : load exception : System.IO.FileNotFoundException: Could not find file 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\hints.dat'.
+54 run main : returning default values.
+55 run main : loading options... done!
+56 run main : loading hints...
+57 run main : failed to load hints (first run?).
+58 run main : load exception : System.IO.FileNotFoundException: Could not find file 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\hints.dat'.
 File name: 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\hints.dat'
    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
    at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
    at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
    at djack.RogueSurvivor.Engine.GameHintsStatus.CreateStream(String saveFileName, Boolean save) in C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\Engine\GameHints.cs:line 108
    at djack.RogueSurvivor.Engine.GameHintsStatus.Load(String filepath) in C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\Engine\GameHints.cs:line 83.
-61 run main : resetting.
-62 run main : loading options... done!
-63 run main : loading keybindings...
-64 run main : failed to load keybindings (first run?), using defaults.
-65 run main : load exception : System.IO.FileNotFoundException: Could not find file 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\keys.dat'.
+59 run main : resetting.
+60 run main : loading options... done!
+61 run main : loading keybindings...
+62 run main : failed to load keybindings (first run?), using defaults.
+63 run main : load exception : System.IO.FileNotFoundException: Could not find file 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\keys.dat'.
 File name: 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Config\keys.dat'
    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
    at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
    at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
    at djack.RogueSurvivor.Engine.Keybindings.CreateStream(String saveName, Boolean save) in C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\Engine\Keybindings.cs:line 214
    at djack.RogueSurvivor.Engine.Keybindings.Load(String filepath) in C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\Engine\Keybindings.cs:line 189.
-66 run main : loading keybindings... done!
-67 init sound : loading music army file Resources\Music\RS - Army.mp3
-68 init sound : loading music big bear theme song file Resources\Music\RS - Big Bear Theme Song.mp3
-69 init sound : loading music biker file Resources\Music\RS - Biker.mp3
-70 init sound : loading music char underground facility file Resources\Music\RS - CUF.mp3
-71 init sound : loading music duckman theme song file Resources\Music\RS - Duckman Theme Song.mp3
-72 init sound : loading music famu fataru theme song file Resources\Music\RS - Famu Fataru Theme Song.mp3
-73 init sound : loading music fight file Resources\Music\RS - Fight.mp3
-74 init sound : loading music gangsta file Resources\Music\RS - Gangsta.mp3
-75 init sound : loading music hans von hanz theme song file Resources\Music\RS - Hans von Hanz Theme Song.mp3
-76 init sound : loading music heythere file Resources\Music\RS - Hey There.mp3
-77 init sound : loading music hospital file Resources\Music\RS - Hospital.mp3
-78 init sound : loading music insane file Resources\Music\RS - Insane.mp3
-79 init sound : loading music interlude file Resources\Music\RS - Interlude - Loop.mp3
-80 init sound : loading music intro file Resources\Music\RS - Intro.mp3
-81 init sound : loading music limbo file Resources\Music\RS - Limbo.mp3
-82 init sound : loading music playerdeath file Resources\Music\RS - Post Mortem.mp3
-83 init sound : loading music reincarnate file Resources\Music\RS - Reincarnate.mp3
-84 init sound : loading music roguedjack theme song file Resources\Music\RS - Roguedjack Theme Song.mp3
-85 init sound : loading music santaman theme song file Resources\Music\RS - Santaman Theme Song.mp3
-86 init sound : loading music sewers file Resources\Music\RS - Sewers.mp3
-87 init sound : loading music sleep file Resources\Music\RS - Sleep - Loop.mp3
-88 init sound : loading music subway file Resources\Music\RS - Subway.mp3
-89 init sound : loading music survivors file Resources\Music\RS - Survivors.mp3
-90 init sound : loading music surface file Resources\Music\RS - Surface.mp3
-91 init sound : loading music undead eat file Resources\Sfx\sfx - undead eat.mp3
-92 init sound : loading music undead rise file Resources\Sfx\sfx - undead rise.mp3
-93 init sound : loading music nightmare file Resources\Sfx\sfx - nightmare.mp3
-94 run main : Loading text file C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Docs\RS Manual.txt...
-95 run main : done!
-96 run main : loading hiscore table...
-97 run main : failed to load hiscore table (no hiscores?).
-98 run main : load exception : System.IO.FileNotFoundException: Could not find file 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Saves\hiscores.dat'.
+64 run main : loading keybindings... done!
+65 init sound : loading music army file Resources\Music\RS - Army.mp3
+66 init sound : loading music big bear theme song file Resources\Music\RS - Big Bear Theme Song.mp3
+67 init sound : loading music biker file Resources\Music\RS - Biker.mp3
+68 init sound : loading music char underground facility file Resources\Music\RS - CUF.mp3
+69 init sound : loading music duckman theme song file Resources\Music\RS - Duckman Theme Song.mp3
+70 init sound : loading music famu fataru theme song file Resources\Music\RS - Famu Fataru Theme Song.mp3
+71 init sound : loading music fight file Resources\Music\RS - Fight.mp3
+72 init sound : loading music gangsta file Resources\Music\RS - Gangsta.mp3
+73 init sound : loading music hans von hanz theme song file Resources\Music\RS - Hans von Hanz Theme Song.mp3
+74 init sound : loading music heythere file Resources\Music\RS - Hey There.mp3
+75 init sound : loading music hospital file Resources\Music\RS - Hospital.mp3
+76 init sound : loading music insane file Resources\Music\RS - Insane.mp3
+77 init sound : loading music interlude file Resources\Music\RS - Interlude - Loop.mp3
+78 init sound : loading music intro file Resources\Music\RS - Intro.mp3
+79 init sound : loading music limbo file Resources\Music\RS - Limbo.mp3
+80 init sound : loading music playerdeath file Resources\Music\RS - Post Mortem.mp3
+81 init sound : loading music reincarnate file Resources\Music\RS - Reincarnate.mp3
+82 init sound : loading music roguedjack theme song file Resources\Music\RS - Roguedjack Theme Song.mp3
+83 init sound : loading music santaman theme song file Resources\Music\RS - Santaman Theme Song.mp3
+84 init sound : loading music sewers file Resources\Music\RS - Sewers.mp3
+85 init sound : loading music sleep file Resources\Music\RS - Sleep - Loop.mp3
+86 init sound : loading music subway file Resources\Music\RS - Subway.mp3
+87 init sound : loading music survivors file Resources\Music\RS - Survivors.mp3
+88 init sound : loading music surface file Resources\Music\RS - Surface.mp3
+89 init sound : loading music undead eat file Resources\Sfx\sfx - undead eat.mp3
+90 init sound : loading music undead rise file Resources\Sfx\sfx - undead rise.mp3
+91 init sound : loading music nightmare file Resources\Sfx\sfx - nightmare.mp3
+92 run main : Loading text file C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Docs\RS Manual.txt...
+93 run main : done!
+94 run main : loading hiscore table...
+95 run main : failed to load hiscore table (no hiscores?).
+96 run main : load exception : System.IO.FileNotFoundException: Could not find file 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Saves\hiscores.dat'.
 File name: 'C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\bin\x86\Debug\Config\Saves\hiscores.dat'
    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
    at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
    at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
    at djack.RogueSurvivor.Engine.HiScoreTable.CreateStream(String saveFileName, Boolean save) in C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\Engine\HiScoreTable.cs:line 189
    at djack.RogueSurvivor.Engine.HiScoreTable.Load(String filepath) in C:\Users\gobes001\Downloads\Rogue Survivor alpha 10.1 src\WRogue\Engine\HiScoreTable.cs:line 165.
-99 run sound : playing music intro.
-100 run main : stopping & clearing sim thread...
-101 run main : stopping & clearing sim thread done!
-102 run main : starting sim...
-103 run main : ...allocating sim thread
-104 run main : ...sim thread start.
-105 run main : sim thread: starting loop
+97 run sound : playing music intro.

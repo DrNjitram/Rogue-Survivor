@@ -241,16 +241,15 @@ namespace djack.RogueSurvivor.Gameplay.Generators
         public void GiveNameToActor(DiceRoller roller, Actor actor)
         {
             if (actor.Model.DollBody.IsMale)
-                GiveNameToActor(roller, actor, MALE_FIRST_NAMES, LAST_NAMES);
+                GiveNameToActor(roller, actor, LAST_NAMES);
             else
-                GiveNameToActor(roller, actor, FEMALE_FIRST_NAMES, LAST_NAMES);
+                GiveNameToActor(roller, actor, LAST_NAMES);
         }
 
-        public void GiveNameToActor(DiceRoller roller, Actor actor, string[] firstNames, string[] lastNames)
+        public void GiveNameToActor(DiceRoller roller, Actor actor, string[] lastNames)
         {
             actor.IsProperName = true;
-            string randomName = firstNames[roller.Roll(0, firstNames.Length)] + " " + lastNames[roller.Roll(0, lastNames.Length)];
-            actor.Name = randomName;
+            actor.Name = lastNames[roller.Roll(0, lastNames.Length)];
         }
         #endregion
 
