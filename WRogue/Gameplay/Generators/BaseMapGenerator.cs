@@ -219,6 +219,7 @@ namespace djack.RogueSurvivor.Gameplay.Generators
             "Zora"
         };
 
+        //This line and the function below are the only changed features when compared to the basegame
         // alpha10.1 added new names
         static readonly string[] LAST_NAMES = ReadCSVToArray(@"Resources\Data\names.txt");
 
