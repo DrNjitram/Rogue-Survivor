@@ -1061,10 +1061,11 @@ namespace djack.RogueSurvivor.Engine
 
         string Capitalize(string text)
         {
-            if (text == null)
+            if (text == null || text == "")
                 return "";
             if (text.Length == 1)
                 return String.Format("{0}", Char.ToUpper(text[0]));
+
 
             return String.Format("{0}{1}", Char.ToUpper(text[0]), text.Substring(1));
         }

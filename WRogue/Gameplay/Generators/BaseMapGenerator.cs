@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
+using System.Linq;
 using djack.RogueSurvivor.Data;
 using djack.RogueSurvivor.Engine;
 using djack.RogueSurvivor.Engine.Items;
@@ -170,11 +171,14 @@ namespace djack.RogueSurvivor.Gameplay.Generators
             {
                 var line = reader.ReadLine();
                 var values = line.Split(',');
-                if(values.Length > 0)
+                if (values.Length > 0)
+                {
                     data.AddRange(values);
+                    
+                }
             }
 
-            return data.ToArray();
+            return data.Where(x => !string.IsNullOrEmpty(x)).ToArray();
         }
 
         public void GiveNameToActor(DiceRoller roller, Actor actor)
